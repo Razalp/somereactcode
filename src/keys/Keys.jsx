@@ -4,6 +4,7 @@ const products = [
     {id:2, name: 'phone', brand: 'Samsung', qty:1  },
     {id:3, name: 'tablet', brand: 'Apple', qty: 1 },
     {id:4, name: 'camera', brand: 'Sony', qty:1  },
+    {id:4, name: 'camera', brand: 'Sony', qty:2  },
     // Add more objects as needed
 ];
 
